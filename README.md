@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-este es un repositorio de prueba henry
+Luciano Barbito
+este es es un proyecto de prueba de como crear un repositorio y clonarlo
